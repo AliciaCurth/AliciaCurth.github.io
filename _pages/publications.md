@@ -8,7 +8,7 @@ author_profile: true
   You can find a full list of all my publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Selected Conference Publications
+## Selected Conference Publications
  ======
  (\* indicates equal contribution)
  
@@ -31,7 +31,7 @@ Jarrett, D., Cebere, B. C., Liu, T., **Curth, A.**, & van der Schaar, M. (2022).
  **Curth, A.**, Thoral, P., van den Wildenberg, W., Bijlstra, P., de Bruin, D., Elbers, P., & Fornasa, M. (2019). Transferring clinical prediction models across hospitals and electronic health record systems. In Machine Learning and Knowledge Discovery in Databases: International Workshops of ECML PKDD 2019, Würzburg, Germany, September 16–20, 2019, Proceedings, Part I (pp. 605-621). Springer International Publishing. [Link](https://www.researchgate.net/profile/Paul-Elbers/publication/337821644_Transferring_Clinical_Prediction_Models_across_Hospitals_and_Electronic_Health_Record_Systems/links/5debf83092851c83646b664d/Transferring-Clinical-Prediction-Models-across-Hospitals-and-Electronic-Health-Record-Systems.pdf)
  
 
-Selected Preprints
+## Selected Preprints
  ======
 **Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. arXiv preprint arXiv:2302.02923. [Link](https://arxiv.org/abs/2302.02923)
 
