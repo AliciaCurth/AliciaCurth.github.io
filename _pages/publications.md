@@ -9,7 +9,7 @@ author_profile: true
 {% endif %}
 
 Selected Conference Publications
- ====
+ ======
  (\* indicates equal contribution)
  
  **Curth, A.**, & van der Schaar, M. (2023). Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data. In International Conference on Artificial Intelligence and Statistics 2023. PMLR. _To Appear._
