@@ -13,7 +13,7 @@ redirect_from:
 Hi and welcome to my (Alicia Curth's) personal academic website!
 
 ## About me
-I am a third year PhD student at the University of Cambridge, working in the area of Machine Learning (ML) for healthcare advised by [Prof. Mihaela van der Schaar](https://www.vanderschaar-lab.com/). Most of my research focusses on how to best use ML to estimate personalized causal effects of treatments, but I am broadly interested in many topics relating to causality, missing data and distribution shifts.
+I am a third year PhD student at the University of Cambridge, working in the area of Machine Learning (ML) for healthcare advised by [Prof. Mihaela van der Schaar](https://www.vanderschaar-lab.com/). Most of my research focusses on how to best use ML to estimate personalized causal effects of treatments, but I am broadly interested in many topics relating to causality, missing data and distribution shifts. Please feel free to reach out in case you want to discuss any of them! :) 
 
 ### My professional background
 Albeit a ML researcher today, I am an applied statistician at heart -- and most of my research therefore reflects my desire to connect ideas from applied statistics with machine learning. I hold a BSc in Econometrics and Operations Research (summa cum laude) and a BSc in Economics and Business Economics (summa cum laude) with specialisation in Policy Economics from the Erasmus University Rotterdam, and a MSc in Statistical Science (with distinction) from the University of Oxford. I also briefly worked as a data scientist evaluating the effectiveness of marketing campaigns, and as a research intern at [Pacmed](https://pacmed.ai/), a Dutch start-up bringin ML solutions to clinical practice. 
