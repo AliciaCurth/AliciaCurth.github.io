@@ -4,9 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-{% if author.googlescholar %}
-  You can find a full list of all my publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+Please find below a selection of my publications and preprints; a full list can be found on [my google scholar profile](https://scholar.google.com/citations?user=eWRBqsYAAAAJ&hl=en). 
 
 ## Selected Conference Publications
  (\* indicates equal contribution)
