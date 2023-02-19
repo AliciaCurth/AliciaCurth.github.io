@@ -9,7 +9,6 @@ author_profile: true
 {% endif %}
 
 ## Selected Conference Publications
- ======
  (\* indicates equal contribution)
  
  **Curth, A.**, & van der Schaar, M. (2023). Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data. In International Conference on Artificial Intelligence and Statistics 2023. PMLR. _To Appear._
@@ -32,7 +31,6 @@ Jarrett, D., Cebere, B. C., Liu, T., **Curth, A.**, & van der Schaar, M. (2022).
  
 
 ## Selected Preprints
- ======
 **Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. arXiv preprint arXiv:2302.02923. [Link](https://arxiv.org/abs/2302.02923)
 
 **Curth, A.**, Hüyük, A., & van der Schaar, M. (2022). Adaptively Identifying Patient Populations With Treatment Benefit in Clinical Trials. arXiv preprint arXiv:2208.05844. [Link](https://arxiv.org/abs/2208.05844) _Presented as Spotlight Paper at the Workshop on Adaptive Experimental Design and Active Learning in the Real World at ICML 2022._
@@ -42,11 +40,3 @@ Hatt, T., Berrevoets, J., **Curth, A.**, Feuerriegel, S., & van der Schaar, M. (
 Berrevoets, J., **Curth, A.**, Bica, I., McKinney, E., & van der Schaar, M. (2021). Disentangled counterfactual recurrent networks for treatment effect inference over time. arXiv preprint arXiv:2112.03811. [Link](https://arxiv.org/abs/2112.03811)
 
 **Curth, A.**, Alaa, A. M., & van der Schaar, M. (2020). Estimating structural target functions using machine learning and influence functions. arXiv preprint arXiv:2008.06461. [Link](https://arxiv.org/abs/2008.06461) _MSc Dissertation._
-
-
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
