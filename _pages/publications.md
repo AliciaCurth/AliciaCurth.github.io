@@ -10,7 +10,7 @@ Please find below a selection of my publications and preprints; a full list can 
 ## Selected Conference Publications
  (\* indicates equal contribution)
  
- **Curth, A.**, & van der Schaar, M. (2023). Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data. In International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. _To Appear._
+ **Curth, A.**, & van der Schaar, M. (2023). Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data. In International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. [Link](https://arxiv.org/abs/2302.12718)
  
  Crabbé, J.\*, **Curth, A.**\*, Bica, I.\*, & van der Schaar, M. (2022). Benchmarking heterogeneous treatment effect models through the lens of interpretability. In Thirty-sixth conference on neural information processing systems (NeurIPS) datasets and benchmarks track. [Link](https://openreview.net/forum?id=ddPXQt-gM--)
 
