@@ -18,7 +18,7 @@ Chan, A., **Curth, A.**, & van der Schaar, M. (2022) Inverse Online Learning: Un
 
 Jarrett, D., Cebere, B. C., Liu, T., **Curth, A.**, & van der Schaar, M. (2022). Hyperimpute: Generalized iterative imputation with automatic model selection. In International Conference on Machine Learning (ICML). PMLR.[Link](https://proceedings.mlr.press/v162/jarrett22a.html)
  
-**Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really doing great at estimating CATE? a critical look at ML benchmarking practices in treatment effect estimation. In Thirty-fifth conference on neural information processing systems (NeurIPS) datasets and benchmarks track (round 2).[Link](https://openreview.net/forum?id=FQLzQqGEAH)
+**Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really doing great at estimating CATE? a critical look at ML benchmarking practices in treatment effect estimation. In Thirty-fifth conference on neural information processing systems (NeurIPS) datasets and benchmarks track.[Link](https://openreview.net/forum?id=FQLzQqGEAH)
  
 **Curth, A**\*, Lee, C.\*,  & van der Schaar, M. (2021). SurvITE: learning heterogeneous treatment effects from time-to-event data. Advances in Neural Information Processing Systems (NeurIPS), 34, 26740-26753. [Link](https://proceedings.neurips.cc/paper/2021/hash/e0eacd983971634327ae1819ea8b6214-Abstract.html)
  
