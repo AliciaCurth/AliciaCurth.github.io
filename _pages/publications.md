@@ -8,12 +8,12 @@ author_profile: true
 Please find below a selection of my publications and preprints; a full list can be found on [my google scholar profile](https://scholar.google.com/citations?user=eWRBqsYAAAAJ&hl=en). 
 
 ## Current personal favourites 🤓
-**Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. arXiv preprint arXiv:2302.02923. [Link](https://arxiv.org/abs/2302.02923)
-
-**Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In Thirty-fifth conference on neural information processing systems (NeurIPS) datasets and benchmarks track.[Link](https://openreview.net/forum?id=FQLzQqGEAH)
 
  **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. Advances in Neural Information Processing Systems, 34, 15883-15894. [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) _NeurIPS Spotlight Paper._
 
+**Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In Thirty-fifth conference on neural information processing systems (NeurIPS) datasets and benchmarks track.[Link](https://openreview.net/forum?id=FQLzQqGEAH)
+
+**Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. arXiv preprint arXiv:2302.02923. [Link](https://arxiv.org/abs/2302.02923)
 
 ## Selected Conference Publications
  (\* indicates equal contribution)
