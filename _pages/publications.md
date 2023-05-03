@@ -18,9 +18,9 @@ Please find below a selection of my publications and preprints; a full list can 
 ## Selected Conference Publications
  (\* indicates equal contribution)
  
- **Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. In _International Conference on Machine Learning (ICML)_. To Appear. [Link](https://arxiv.org/abs/2302.02923)
+ **Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. In _International Conference on Machine Learning (ICML)_. To Appear. [Arxiv Link](https://arxiv.org/abs/2302.02923)
  
-  **Curth, A.**, Hüyük, A., & van der Schaar, M. (2023). Adaptive Identification of Populations with Treatment Benefit in Clinical Trials: Machine Learning Challenges and Solutions.  In _International Conference on Machine Learning (ICML)_. To Appear. [Link](https://arxiv.org/abs/2208.05844) _(Also presented as Spotlight Paper at the Workshop on Adaptive Experimental Design and Active Learning in the Real World at ICML 2022.)_
+  **Curth, A.**, Hüyük, A., & van der Schaar, M. (2023). Adaptive Identification of Populations with Treatment Benefit in Clinical Trials: Machine Learning Challenges and Solutions.  In _International Conference on Machine Learning (ICML)_. To Appear. [Arxiv Link](https://arxiv.org/abs/2208.05844) _(Also presented as Spotlight Paper at the Workshop on Adaptive Experimental Design and Active Learning in the Real World at ICML 2022.)_
 
 Vanderschueren\*, T., **Curth, A.**\*, Verbeke, W. & van der Schaar, M. (2023). Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time.  In _International Conference on Machine Learning (ICML)_. To Appear.
  
