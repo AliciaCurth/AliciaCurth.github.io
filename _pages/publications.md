@@ -9,14 +9,20 @@ Please find below a selection of my publications and preprints; a full list can 
 
 ## Current personal favourites 🤓
 
- **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. Advances in Neural Information Processing Systems, 34, 15883-15894. [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) _NeurIPS Spotlight Paper._
+ **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. In _Conference on Neural Information Processing Systems (NeurIPS)_. [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) _NeurIPS Spotlight Paper._
+ 
+**Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In _Conference on neural information processing systems (NeurIPS) datasets and benchmarks track._ [Link](https://openreview.net/forum?id=FQLzQqGEAH)
 
-**Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In Thirty-fifth conference on neural information processing systems (NeurIPS) datasets and benchmarks track.[Link](https://openreview.net/forum?id=FQLzQqGEAH)
-
-**Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. arXiv preprint arXiv:2302.02923. [Link](https://arxiv.org/abs/2302.02923)
+**Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. In _International Conference on Machine Learning (ICML)_. To Appear. [Link](https://arxiv.org/abs/2302.02923)
 
 ## Selected Conference Publications
  (\* indicates equal contribution)
+ 
+ **Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. In _International Conference on Machine Learning (ICML)_. To Appear. [Link](https://arxiv.org/abs/2302.02923)
+ 
+  **Curth, A.**, Hüyük, A., & van der Schaar, M. (2023). Adaptive Identification of Populations with Treatment Benefit in Clinical Trials: Machine Learning Challenges and Solutions.  In _International Conference on Machine Learning (ICML)_. To Appear. [Link](https://arxiv.org/abs/2208.05844) _(Also presented as Spotlight Paper at the Workshop on Adaptive Experimental Design and Active Learning in the Real World at ICML 2022.)_
+
+Vanderschueren\*, T., **Curth, A.**\*, Verbeke, W. & van der Schaar, M. (2023). Accounting For Informative Sampling When Learning to Forecast Treatment Outcomes Over Time.  In _International Conference on Machine Learning (ICML)_. To Appear.
  
  **Curth, A.**, & van der Schaar, M. (2023). Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data. In International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. [Link](https://arxiv.org/abs/2302.12718)
  
@@ -38,9 +44,6 @@ Jarrett, D., Cebere, B. C., Liu, T., **Curth, A.**, & van der Schaar, M. (2022).
  
 
 ## Selected Preprints
-**Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. arXiv preprint arXiv:2302.02923. [Link](https://arxiv.org/abs/2302.02923)
-
-**Curth, A.**, Hüyük, A., & van der Schaar, M. (2022). Adaptively Identifying Patient Populations With Treatment Benefit in Clinical Trials. arXiv preprint arXiv:2208.05844. [Link](https://arxiv.org/abs/2208.05844) _Presented as Spotlight Paper at the Workshop on Adaptive Experimental Design and Active Learning in the Real World at ICML 2022._
 
 Hatt, T., Berrevoets, J., **Curth, A.**, Feuerriegel, S., & van der Schaar, M. (2022). Combining observational and randomized data for estimating heterogeneous treatment effects. arXiv preprint arXiv:2202.12891. [Link](https://arxiv.org/abs/2202.12891)
 
