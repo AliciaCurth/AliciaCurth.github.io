@@ -9,7 +9,7 @@ Please find below a selection of my publications and preprints; a full list can 
 
 ## Current personal favourites 🤓
 
- **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. In _Conference on Neural Information Processing Systems (NeurIPS)_. [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) _NeurIPS Spotlight Paper._
+ **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. In _Advances in Neural Information Processing Systems (NeurIPS), 34._ [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) <code style="color : aqua">_NeurIPS Spotlight Paper._</code>
  
 **Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In _Conference on neural information processing systems (NeurIPS) datasets and benchmarks track._ [Link](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/2a79ea27c279e471f4d180b08d62b00a-Paper-round2.pdf)
 
@@ -29,12 +29,12 @@ Vanderschueren\*, T., **Curth, A.**\*, Verbeke, W. & van der Schaar, M. (2023). 
 Chan, A., **Curth, A.**, & van der Schaar, M. (2022) Inverse Online Learning: Understanding Non-Stationary and Reactionary Policies. In _International Conference on Learning Representations (ICLR)._ [Link](https://openreview.net/forum?id=DYypjaRdph2)
 
 Jarrett, D., Cebere, B. C., Liu, T., **Curth, A.**, & van der Schaar, M. (2022). Hyperimpute: Generalized iterative imputation with automatic model selection. In _International Conference on Machine Learning (ICML). PMLR._[Link](https://proceedings.mlr.press/v162/jarrett22a.html)
+
+ **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. In _Advances in Neural Information Processing Systems (NeurIPS), 34._ [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) <code style="color : aqua">_NeurIPS Spotlight Paper._</code>
  
 **Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In _Thirty-fifth conference on neural information processing systems (NeurIPS) datasets and benchmarks track._[Link](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/2a79ea27c279e471f4d180b08d62b00a-Paper-round2.pdf)
  
 **Curth, A**\*, Lee, C.\*,  & van der Schaar, M. (2021). SurvITE: learning heterogeneous treatment effects from time-to-event data. In _Advances in Neural Information Processing Systems (NeurIPS), 34._ [Link](https://proceedings.neurips.cc/paper/2021/hash/e0eacd983971634327ae1819ea8b6214-Abstract.html)
- 
- **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. In _Advances in Neural Information Processing Systems (NeurIPS), 34._ [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) _NeurIPS Spotlight Paper._
  
 **Curth, A.**, & van der Schaar, M. (2021). Nonparametric estimation of heterogeneous treatment effects: From theory to learning algorithms. In _International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR._ [Link](https://proceedings.mlr.press/v130/curth21a.html)
 
