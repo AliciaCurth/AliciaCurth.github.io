@@ -9,7 +9,7 @@ Please find below a selection of my publications and preprints; a full list can 
 
 ## Current personal favourites 🤓
 
-**Curth, A.**\*, Jeffares, A.\*, & van der Schaar, M. (2023). A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning. In _NeurIPS 2023_. To Appear (Coming Soon!). <code style="color : aqua">NeurIPS Oral.</code>
+**Curth, A.**\*, Jeffares, A.\*, & van der Schaar, M. (2023). A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning. In _NeurIPS 2023_. [Arxiv Link](https://arxiv.org/abs/2310.18988). <code style="color : aqua">NeurIPS Oral.</code>
 
  **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. In _Advances in Neural Information Processing Systems (NeurIPS), 34._ [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) <code style="color : aqua">NeurIPS Spotlight Paper.</code>
  
