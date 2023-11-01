@@ -13,8 +13,8 @@ redirect_from:
 Hi and welcome to my (Alicia Curth's) personal academic website!
 
 ### News!
-- Sep '23: Our paper 'A U-turn on Double Descent' (joint work with Alan Jeffares) has been accepted to NeurIPS23 as an Oral!! Stay tuned for more info...
-- Aug '23: I will be interning with Javier González in the Health Futures team of Microsoft Research for the next 3 months!
+- Sep '23: Our paper ['A U-turn on Double Descent'](https://arxiv.org/abs/2310.18988) (joint work with Alan Jeffares) has been accepted to NeurIPS23 as an Oral!! 
+- Aug '23: I will be interning with Javier González in the Health Futures team of Microsoft Research for the next 3 months (August-October)!
 - Jul '23: I am going to Honolulu and I am bringing... three posters, on topics relating to treatment effect estimation, to ICML23!
 - April '23: Find me in Valencia presenting a poster on heterogeneous treatment effect estimation in the presence of competing risks at AISTATS23!
 - Dec '22: Check out our paper on Benchmarking Heterogeneous Treatment Effect Estimators through the Lens of Interpretability at NeurIPS22!
