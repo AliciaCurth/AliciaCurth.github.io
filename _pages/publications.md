@@ -7,7 +7,7 @@ author_profile: true
 
 Please find below a selection of my publications and preprints; a full list can be found on [my google scholar profile](https://scholar.google.com/citations?user=eWRBqsYAAAAJ&hl=en). 
 
-## Current personal favourites 🤓
+## Personal Favourites 🤓
 
 **Curth, A.**\*, Jeffares, A.\*, & van der Schaar, M. (2023). A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning. In _NeurIPS 2023_. [Arxiv Link](https://arxiv.org/abs/2310.18988). <code style="color : aqua">NeurIPS Oral.</code>
 
@@ -15,7 +15,7 @@ Please find below a selection of my publications and preprints; a full list can 
  
 **Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In _Conference on neural information processing systems (NeurIPS) datasets and benchmarks track._ [Link](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/2a79ea27c279e471f4d180b08d62b00a-Paper-round2.pdf)
 
-## Selected Conference Publications
+## Other Selected Conference Publications
  (\* indicates equal contribution)
  
  **Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. In _International Conference on Machine Learning (ICML)_. [Arxiv Link](https://arxiv.org/abs/2302.02923)
@@ -27,10 +27,6 @@ Vanderschueren\*, T., **Curth, A.**\*, Verbeke, W. & van der Schaar, M. (2023). 
  **Curth, A.**, & van der Schaar, M. (2023). Understanding the Impact of Competing Events on Heterogeneous Treatment Effect Estimation from Time-to-Event Data. In _International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR._ [Link](https://arxiv.org/abs/2302.12718)
  
  Crabbé, J.\*, **Curth, A.**\*, Bica, I.\*, & van der Schaar, M. (2022). Benchmarking heterogeneous treatment effect models through the lens of interpretability. In _Thirty-sixth conference on neural information processing systems (NeurIPS) datasets and benchmarks track._ [Link](https://openreview.net/forum?id=ddPXQt-gM--)
-
- **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. In _Advances in Neural Information Processing Systems (NeurIPS), 34._ [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) <code style="color : aqua">NeurIPS Spotlight Paper.</code>
- 
-**Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In _Thirty-fifth conference on neural information processing systems (NeurIPS) datasets and benchmarks track._[Link](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/2a79ea27c279e471f4d180b08d62b00a-Paper-round2.pdf)
  
 **Curth, A**\*, Lee, C.\*,  & van der Schaar, M. (2021). SurvITE: learning heterogeneous treatment effects from time-to-event data. In _Advances in Neural Information Processing Systems (NeurIPS), 34._ [Link](https://proceedings.neurips.cc/paper/2021/hash/e0eacd983971634327ae1819ea8b6214-Abstract.html)
  
