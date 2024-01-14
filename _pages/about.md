@@ -22,7 +22,8 @@ Albeit a ML researcher today, I am a statistician at heart -- and most of my res
 When not nerding out on stats and ML, I like to stay active. I've played waterpolo for 14 years (I earned half-blue status in both Oxford and Cambridge by representing both universities in some of the annual varsity matches) and -- like every other Oxbridge student -- have recently become infatuated with rowing & have therefore been women's captain of Clare Hall Boat Club (my college in Cambridge) in 2022 and am now responsible for running the club's social media. Occasionally, one may find me away from the water on a run or a hike. I am also always ready to binge-watch a good Netflix show and love good food & cooking. 
 
 ### News!
-- Jan '24: Our review ``Using Machine Learning to Individualize Treatment Effect Estimation: Challenges and Opportunities'' was accepted for publication in Clinical Pharmacology & Therapeutics, check it out [here](https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/cpt.3159)!
+- Jan '24: Our paper ['Cautionary Tales On Synthetic Controls in Survival Analyses'](https://arxiv.org/abs/2312.00501) was accepted as an Oral Presentation at the Conference on Causal Learning and Reasoning (CLeaR) happening in April 2024!
+- Jan '24: Our review 'Using Machine Learning to Individualize Treatment Effect Estimation: Challenges and Opportunities' was accepted for publication in Clinical Pharmacology & Therapeutics, check it out [here](https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/cpt.3159)!
 - Dec '23: I was interviewed on the 'Causal Bandits' Podcast, check it out [here](https://www.youtube.com/watch?v=w9Dy4xqn7mA&t=1s)!
 - Sep '23: Our paper ['A U-turn on Double Descent'](https://arxiv.org/abs/2310.18988) (joint work with Alan Jeffares) has been accepted to NeurIPS23 as an Oral!! 
 - Aug '23: I will be interning with Javier González in the Health Futures team of Microsoft Research for the next 3 months (August-October)!
