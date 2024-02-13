@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Please find below a selection of my publications and preprints; a full list can be found on [my google scholar profile](https://scholar.google.com/citations?user=eWRBqsYAAAAJ&hl=en). 
+
  (\* indicates equal contribution)
 
 ## Personal Favourites 🤓
@@ -16,9 +17,11 @@ Please find below a selection of my publications and preprints; a full list can 
  
 **Curth, A.**, Svensson, D., Weatherall, J., & van der Schaar, M. (2021). Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation. In _Conference on neural information processing systems (NeurIPS) datasets and benchmarks track._ [Link](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/2a79ea27c279e471f4d180b08d62b00a-Paper-round2.pdf)
 
-## Other Selected Conference Publications
+## Further Selected Publications
 
  **Curth, A.**, Poon, H., Nori, A. & González, J. (2024). Cautionary Tales on Synthetic Controls in Survival Analyses. In _Conference on Causal Learning and Reasoning (CLeaR)_. [Arxiv Link](https://arxiv.org/abs/2312.00501) 
+
+ **Curth, A.**, Peck, R., McKinney, E., Weatherall, J. & van der Schaar, M. (2024). Using Machine Learning to Individualize Treatment Effect Estimation: Challenges and Opportunities. In _Clinical Pharmacology and Therapeutics_. [Paper Link](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3159)
  
  **Curth, A.**, & van der Schaar, M. (2023). In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation. In _International Conference on Machine Learning (ICML)_. [Arxiv Link](https://arxiv.org/abs/2302.02923)
  
@@ -39,8 +42,6 @@ Vanderschueren\*, T., **Curth, A.**\*, Verbeke, W. & van der Schaar, M. (2023). 
 
 ## Selected Preprints
 
-Hatt, T., Berrevoets, J., **Curth, A.**, Feuerriegel, S., & van der Schaar, M. (2022). Combining observational and randomized data for estimating heterogeneous treatment effects. _arXiv preprint arXiv:2202.12891._ [Link](https://arxiv.org/abs/2202.12891)
+**Curth, A.**, Jeffares, A. & van der Schaar, M. (2024). Why do Random Forests Work? Understanding Tree Ensembles as Self-Regularizing Adaptive Smoothers. [Arxiv Link](https://arxiv.org/abs/2402.01502)
 
-Berrevoets, J., **Curth, A.**, Bica, I., McKinney, E., & van der Schaar, M. (2021). Disentangled counterfactual recurrent networks for treatment effect inference over time. _arXiv preprint arXiv:2112.03811._ [Link](https://arxiv.org/abs/2112.03811)
-
-**Curth, A.**, Alaa, A. M., & van der Schaar, M. (2020). Estimating structural target functions using machine learning and influence functions. _arXiv preprint arXiv:2008.06461._ [Link](https://arxiv.org/abs/2008.06461) _MSc Dissertation._
+**Curth, A.**, Alaa, A. M., & van der Schaar, M. (2020). Estimating structural target functions using machine learning and influence functions. [Arxiv Link](https://arxiv.org/abs/2008.06461) _MSc Dissertation._
