@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find below a selection of my publications and preprints; a full list can be found on [my google scholar profile](https://scholar.google.com/citations?user=eWRBqsYAAAAJ&hl=en). 
+Find below a selection of my publications and preprints; a full list can be found on [my google scholar profile](https://scholar.google.com/citations?user=eWRBqsYAAAAJ&hl=en). 
 
  (\* indicates equal contribution)
 
