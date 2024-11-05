@@ -11,6 +11,8 @@ Find below a selection of my publications and preprints; a full list can be foun
 
 ## Personal Favourite Publications 🤓
 
+Jeffares, A.\*, **Curth, A.**\*, & van der Schaar, M. (2024). Deep Learning Through A Telescoping Lens: A Simple Model Provides Empirical Insights On Grokking, Gradient Boosting & Beyond. In _NeurIPS 2024_. [Arxiv Link](https://arxiv.org/abs/2411.00247).
+
 **Curth, A.**\*, Jeffares, A.\*, & van der Schaar, M. (2023). A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning. In _NeurIPS 2023_. [Arxiv Link](https://arxiv.org/abs/2310.18988). <code style="color : aqua">NeurIPS Oral.</code>
 
  **Curth, A.**, & van der Schaar, M. (2021). On inductive biases for heterogeneous treatment effect estimation. In _Advances in Neural Information Processing Systems (NeurIPS), 34._ [Link](https://proceedings.neurips.cc/paper/2021/hash/8526e0962a844e4a2f158d831d5fddf7-Abstract.html) <code style="color : aqua">NeurIPS Spotlight Paper.</code>
