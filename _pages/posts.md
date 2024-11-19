@@ -5,7 +5,10 @@ permalink: /posts/
 author_profile: true
 ---
 
-One day I may find time to finally make a blog, but for now I am using this space to collect and link to some of the (quite elaborate) Twitter threads I've made explaining some papers! (find me @AliciaCurth!)
+One day I may find time to finally make a blog, but for now I am using this space to collect and link to some of the (quite elaborate) threads I've made explaining some papers! (find me @AliciaCurth on Twitter or Bluesky!)
+
+**November 2024: Telescoping Approximation & Understanding Model Complexity in Deep Learning**. _From double descent to grokking, deep learning sometimes works in unpredictable ways... or does it? For NeurIPS24, we explored if & how statistics + smart linearisation can help us better understand & predict numerous odd deep learning phenomena — and learned a lot.._ 🧵 Continued [here](https://x.com/AliciaCurth/status/1858497131796967723). 📖 Corresponding [paper.](https://arxiv.org/abs/2411.00247)
+
 
 **October 2024: Benign Overfitting**. _When Double Descent & Benign Overfitting became a thing, I was a masters student in statistics — and so confused. I couldn't reconcile what l had literally just learned about bias-variance&co with modern ML 😢 Here's what I wish someone had told me then:_ 🧵 Continued [here](https://x.com/AliciaCurth/status/1841817856142348529). 📖 Corresponding [paper.](https://arxiv.org/abs/2409.18842)
 
